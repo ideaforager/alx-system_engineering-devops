@@ -1,1 +1,1 @@
-About bash projects
+shell init file variables and expansions
